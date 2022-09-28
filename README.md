@@ -1,5 +1,8 @@
+![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
 <h1 align="center">Hi 👋, I'm Jagjeet Singh</h1>
 <h3 align="center">A passionate Android Developer and Content Creator</h3>
+<img align="right" alt="Coding" width="400" src="https://sagaratechnology.com/blog/wp-content/uploads/2020/09/1_LEH5tUEQReWe8Iu-UEV3Pg.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagjeet-singh-09&label=Profile%20views&color=0e75b6&style=flat" alt="jagjeet-singh-09" /> </p>
 
